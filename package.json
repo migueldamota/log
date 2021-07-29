@@ -9,5 +9,13 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^16.4.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueldamota/log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/migueldamota/log/issues"
+  },
+  "homepage": "https://github.com/migueldamota/log#readme"
 }
