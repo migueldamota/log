@@ -1,0 +1,13 @@
+{
+  "name": "@migueldamota/log",
+  "version": "0.0.1",
+  "description": "Log",
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Miguel da Mota <mixeus@zyneex.com> (https://zyneex.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.4.7"
+  }
+}
